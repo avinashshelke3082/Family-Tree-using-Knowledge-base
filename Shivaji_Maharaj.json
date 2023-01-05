@@ -1,0 +1,129 @@
+{
+	"father": [
+		{
+			"Shivaji Maharaj": "Sambhaji Maharaj"
+		},
+		{
+			"Shivaji Maharaj": "Rajaram Maharaj"
+		},
+		{
+			"Shivaji Maharaj": "Sakhubai"
+		},
+		{
+			"Shivaji Maharaj": "Ranubai"
+		},
+		{
+			"Shivaji Maharaj": "Ambikabai"
+		},
+		{
+			"Shivaji Maharaj": "RajKunvarbai"
+		},
+		{
+			"Shivaji Maharaj": "Dipabai"
+		},
+		{
+			"Shivaji Maharaj": "Kamalabai"
+		},
+		{
+			"Sambhaji Maharaj": "Shahu Maharaj"
+		},
+		{
+			"Rajaram Maharaj": "Shivaji Maharaj(Second)"
+		},
+		{
+			"Rajaram Maharaj": "Sambhaji Maharaj(Second)"
+		}
+	],
+	"mother": [
+		{
+			"Saibai": "Sambhaji Maharaj"
+		},
+		{
+			"Saibai": "Sakhubai"
+		},
+		{
+			"Saibai": "Ranubai"
+		},
+		{
+			"Saibai": "Ambikabai"
+		},
+		{
+			"Sagunabai": "RajKunvarbai"
+		},
+		{
+			"Soyrabai": "Rajaram Maharaj"
+		},
+		{
+			"Soyrabai": "Dipabai"
+		},
+		{
+			"Sakvarbai": "Kamalabai"
+		},
+		{
+			"Yesubai": "Shahu Maharaj"
+		},
+		{
+			"Tarabai": "Shivaji Maharaj(Second)"
+		},
+		{
+			"Rajasbai": "Sambhaji Maharaj(Second)"
+		}
+	],
+	"Gender": [
+		{
+			"Shivaji Maharaj": "male"
+		},
+		{
+			"Sambhaji Maharaj": "male"
+		},
+		{
+			"Rajaram Maharaj": "male"
+		},
+		{
+			"Shivaji Maharaj(Second)": "male"
+		},
+		{
+			"Sambhaji Maharaj(Second)": "male"
+		},
+		{
+			"Saibai":"female"
+		},
+		{
+			"Sagunabai": "female"
+		},
+		{
+			"Soyrabai": "female"
+		},
+		{
+			"Sakvarbai": "female"
+		},
+		{
+			"Yesubai":"female"
+		},
+		{
+			"Tarabai": "female"
+		},
+		{
+			"Rajasbai": "female"
+		},
+		{
+			"Sakhubai": "female"
+		},
+		{
+			"Ranubai": "female"
+		},
+		{
+			"Ambikabai": "female"
+		},
+		{
+			"RajKunvarbai": "female"
+		},
+		{
+			"Dipabai": "female"
+		},
+		{
+			"Kamalabai": "female"
+		}
+		
+	]
+}
